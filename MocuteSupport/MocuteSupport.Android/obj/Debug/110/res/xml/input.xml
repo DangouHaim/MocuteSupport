@@ -1,0 +1,1 @@
+<input-method android:isDefault="false" android:settingsActivity=".MainActivity" xmlns:android="http://schemas.android.com/apk/res/android"><subtype android:imeSubtypeLocale="en_US" android:imeSubtypeMode="keyboard" android:label="MocuteSupport" /></input-method>

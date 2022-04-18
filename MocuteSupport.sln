@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MocuteSupport.Android", "MocuteSupport\MocuteSupport.Android\MocuteSupport.Android.csproj", "{DF0F359B-3808-4AB3-8F58-560A9B8FE375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MocuteSupport", "MocuteSupport\MocuteSupport\MocuteSupport.csproj", "{C9B0E08A-96F8-4145-9074-F36FDBB23BF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF0F359B-3808-4AB3-8F58-560A9B8FE375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0F359B-3808-4AB3-8F58-560A9B8FE375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0F359B-3808-4AB3-8F58-560A9B8FE375}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DF0F359B-3808-4AB3-8F58-560A9B8FE375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF0F359B-3808-4AB3-8F58-560A9B8FE375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF0F359B-3808-4AB3-8F58-560A9B8FE375}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C9B0E08A-96F8-4145-9074-F36FDBB23BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B0E08A-96F8-4145-9074-F36FDBB23BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B0E08A-96F8-4145-9074-F36FDBB23BF2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C9B0E08A-96F8-4145-9074-F36FDBB23BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B0E08A-96F8-4145-9074-F36FDBB23BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B0E08A-96F8-4145-9074-F36FDBB23BF2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29F5C355-1663-4898-94C4-0A0F0C3FA0D2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\dango\source\repos\MocuteSupport\MocuteSupport\MocuteSupport\bin\Debug\netstandard2.0\MocuteSupport.deps.json
+C:\Users\dango\source\repos\MocuteSupport\MocuteSupport\MocuteSupport\bin\Debug\netstandard2.0\MocuteSupport.dll
+C:\Users\dango\source\repos\MocuteSupport\MocuteSupport\MocuteSupport\bin\Debug\netstandard2.0\ref\MocuteSupport.dll
+C:\Users\dango\source\repos\MocuteSupport\MocuteSupport\MocuteSupport\bin\Debug\netstandard2.0\MocuteSupport.pdb
+C:\Users\dango\source\repos\MocuteSupport\MocuteSupport\MocuteSupport\obj\Debug\netstandard2.0\MocuteSupport.csproj.AssemblyReference.cache
+C:\Users\dango\source\repos\MocuteSupport\MocuteSupport\MocuteSupport\obj\Debug\netstandard2.0\MocuteSupport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dango\source\repos\MocuteSupport\MocuteSupport\MocuteSupport\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dango\source\repos\MocuteSupport\MocuteSupport\MocuteSupport\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dango\source\repos\MocuteSupport\MocuteSupport\MocuteSupport\obj\Debug\netstandard2.0\MocuteSupport.AssemblyInfoInputs.cache
+C:\Users\dango\source\repos\MocuteSupport\MocuteSupport\MocuteSupport\obj\Debug\netstandard2.0\MocuteSupport.AssemblyInfo.cs
+C:\Users\dango\source\repos\MocuteSupport\MocuteSupport\MocuteSupport\obj\Debug\netstandard2.0\MocuteSupport.csproj.CoreCompileInputs.cache
+C:\Users\dango\source\repos\MocuteSupport\MocuteSupport\MocuteSupport\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dango\source\repos\MocuteSupport\MocuteSupport\MocuteSupport\obj\Debug\netstandard2.0\MocuteSupport.dll
+C:\Users\dango\source\repos\MocuteSupport\MocuteSupport\MocuteSupport\obj\Debug\netstandard2.0\ref\MocuteSupport.dll
+C:\Users\dango\source\repos\MocuteSupport\MocuteSupport\MocuteSupport\obj\Debug\netstandard2.0\MocuteSupport.pdb
